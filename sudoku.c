@@ -52,6 +52,8 @@ int readInput ( board * gameBoard )
             col++;
         }
     }
+    if ( row != MAX_ROWS - 1 || col != MAX_COLS )
+      return ERROR_WRONG_INPUT;
     return SUCCESSFULLY_READ_INPUT;
 }
 /*
