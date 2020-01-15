@@ -1,5 +1,5 @@
 /*
-* Sudoku 
+* Sudoku solver
 * @Author: Freezing
 * @Date: 14/01/2020
 */
