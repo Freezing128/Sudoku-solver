@@ -1,5 +1,5 @@
 /*
-* Sudoku solver
+* Sudoku solver v1.0
 * @Author: Freezing
 * @Date: 14/01/2020
 */
