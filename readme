@@ -1,7 +1,7 @@
 [C] Sudoku solver v1.0
 Coded by Freezing 14/01/2020
 
-Basic C program that reads sudoku board from stdin, solves it by using recursive backtracking algorithm and prints the solution in a neat format on stdout.
+Basic C program that reads 9x9 sudoku board from stdin, solves it by using recursive backtracking algorithm and prints the solution in a neat format on stdout.
 
 Example of usage:
 
