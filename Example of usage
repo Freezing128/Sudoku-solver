@@ -12,8 +12,8 @@ INPUT FILE:
 **4*725**
 
 PROGRAM OUTPUT:
-Insert sudoku board:
-Inserted sudoku:
+Insert sudoku:
+Given sudoku:
 +==========================+
 | 3 * *  | * 5 *  | 7 8 *  | 
 | 4 * *  | * * *  | 1 * 3  | 
